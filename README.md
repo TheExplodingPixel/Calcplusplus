@@ -1,2 +1,2 @@
-# Calcplusplus
-A simple calculator written in C++.
+# Calc++
+A simple calculator written in C++, done to learn C++.
